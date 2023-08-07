@@ -28,4 +28,4 @@
 <br>
 
 * Entre em contato por gabriel.maia.abal@gmail.com
-* Atualmente estudando desenvolvimento de software pela Cubos Academy e Pós Graduação em Product Management.
+* Atualmente estudando desenvolvimento de software pela Cubos Academy.
