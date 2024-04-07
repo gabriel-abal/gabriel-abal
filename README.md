@@ -28,4 +28,3 @@
 <br>
 
 * Entre em contato por gabriel.maia.abal@gmail.com
-* Atualmente estudando desenvolvimento de software pela Cubos Academy.
