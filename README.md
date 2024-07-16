@@ -1,5 +1,5 @@
 
-### Olá, eu sou o Gabriel Abal, desenvolvedor de software full-stack pela Cubos Academy 🤘😎
+### Olá, eu sou o Gabriel Abal, desenvolvedor de software full-stack pela Cubos Academy e OneBitCode 🤘😎
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-abal/)
