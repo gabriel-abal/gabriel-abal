@@ -2,14 +2,20 @@
 
 # Gabriel Abal
 
-Olá, sou o Gabriel, graduado em administração e me aventurando no mundo da tecnologia. Meu primeiro Hello World foi em Pascal, no meu curso técnico de informática. No início de 2023 iniciei o bootcamp na Cubos Academy como Denvolvedor de Software Full Stack com foco em HTML, CSS JavaScript, React, Node.js, SQL.
+👋 Olá! Sou o Gabriel — graduado em Administração e atualmente trilhando um novo caminho no mundo da tecnologia.
 
-Atualmente sigo me atualizando em NextJS, NestJS e Python.
+💻 Meu primeiro "Hello, World!" foi em Pascal, durante o curso técnico de Informática em 2008. Desde então, a paixão por resolver problemas com código só cresceu.
+
+🚀 Em 2023, iniciei um bootcamp intensivo na Cubos Academy, focado no desenvolvimento Full Stack com as seguintes tecnologias:
+HTML, CSS, JavaScript, React, Node.js e SQL.
+
+🎓 Atualmente, estou cursando minha segunda graduação, agora em Ciência da Computação, e me especializando em Java, com foco no desenvolvimento backend.
+
+🔍 Estou sempre em busca de novos desafios e oportunidades para aprender, colaborar e construir soluções que façam a diferença.
 
 ## Connect with me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-abal/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abal_gabriel/)
 
 - email gabriel.maia.abal@gmail.com
 
